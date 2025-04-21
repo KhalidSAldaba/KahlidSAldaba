@@ -31,4 +31,4 @@ My goal is to become a skilled **Data Center Administrator** or **Cloud Infrastr
 
 ---
 
-_Thanks for checking out my GitHub! I'm always open to learning, collaborating, or exploring internship opportunities._
+_Thanks for checking out my GitHub! I'm always open to learning, collaborating,or Job opportunities._
